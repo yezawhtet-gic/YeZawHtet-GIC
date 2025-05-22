@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YeZawHtet-GIC
 - 👀 I’m interested in Programming Code
-- 🌱 I’m currently learning Laravel and React
-- 💞️ I’m looking to collaborate on doing programs.
+- 🌱 I’m currently learning AWS services
+- 💞️ I’m looking to collaborate on developing programs.
 - 📫 How to reach me 
 
 <!---
